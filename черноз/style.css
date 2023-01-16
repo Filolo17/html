@@ -1,0 +1,15 @@
+body{
+     background: #F0FFFF;
+}
+.block_1{
+    display: inline-block;
+}
+table{
+    border-radius: 2px;
+}
+.block_2{
+    display: inline-block;
+}
+.block_3{
+    display: inline-block;
+}
